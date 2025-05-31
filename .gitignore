@@ -4,3 +4,4 @@
 # Ignore Jupyter auto-saves
 .ipynb_checkpoints/
 
+data/ml_ready_churn.csv
