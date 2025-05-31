@@ -4,4 +4,6 @@
 # Ignore Jupyter auto-saves
 .ipynb_checkpoints/
 
+# Ignore large data file
+data/ml_ready_churn.csv
 data/ml_ready_churn.csv
