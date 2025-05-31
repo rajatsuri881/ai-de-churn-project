@@ -1,0 +1,6 @@
+# Ignore OS junk
+.DS_Store
+
+# Ignore Jupyter auto-saves
+.ipynb_checkpoints/
+
