@@ -41,17 +41,17 @@ ai_de_churn_project/
 ## 🧪 How to Run Locally
 
 ### 1. Clone the Repo
-```bash
+
 git clone https://github.com/rajatsuri881/ai-de-churn-project.git
 cd ai-de-churn-project
 
-2. Create Conda Environment
+### 2. Create Conda Environment
 
 conda create -n ai_de_project python=3.10
 conda activate ai_de_project
 pip install -r requirements.txt  # optional
 
-3. Launch the App
+### 3. Launch the App
 
 cd app/
 streamlit run app.py
